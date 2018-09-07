@@ -1,2 +1,3 @@
 # vagabonds
 adoptions
+gem "hanuman"
